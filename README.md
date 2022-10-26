@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raphael2017br
-- 👀 I’m interested in PROGRAMAR
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in programin
+- 🌱 I’m currently learning HTML,CSS,MySQL
 - 💞️ I’m looking to collaborate on WEBSITES
 - 📫 How to reach me raphaelrangelmanhaes@gmail.com
 
